@@ -1,0 +1,19 @@
+.boxLight {
+  background: #6ddae9;
+  border: none;
+  border-radius: .3em;
+  padding: .4em .7em;
+  margin: .2em .7em .6em 0;
+  display: inline-block;
+  font-size: .85em;
+}
+
+.notification {
+  margin: 0 auto;
+  display: block;
+  width: 100%;
+}
+.form-button{
+  background: #000000;
+  cursor:pointer;
+}
